@@ -1,6 +1,1 @@
-text string .....
-I know  what? what? what?  
-haha\
-
-I don know bla bla bla
-no no  
+This is the .txt for practicing git
